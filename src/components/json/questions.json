@@ -1,0 +1,31 @@
+[
+    {
+        "userId": 1,
+        "profile":"https://images.unsplash.com/photo-1556103255-4443dbae8e5a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGhvdG9ncmFwaGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "name":"Anjali Sangekar",
+        "workedAt":"Student",
+        "date":"updated sep 16",
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "img":"https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014__340.jpg",
+        "catogory": "Photography",
+        "like":137,
+        "dislike":25,
+        "comments":55,
+        "share":12
+      },{
+        "userId": 2,
+        "profile":"https://www.teahub.io/photos/full/78-788577_3d-beautiful-nature-art-nature-profile-pic-for.jpg",
+        "name":"Anuja",
+        "workedAt":"Student",
+        "date":"updated sep 16",
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2aJoW0HliS-Rqx-vdTWYvOWYTc_CK6ku6A&usqp=CAU",
+        "catogory": "Photograph",
+        "like":137,
+        "dislike":25,
+        "comments":55,
+        "share":12
+      }
+]
