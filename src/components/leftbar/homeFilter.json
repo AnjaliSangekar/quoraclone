@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXqftq73bjGpS_ebBmBcAYYySRdpPExLtsjM5BUiJYA&s",
+        "filterName":"CreateSpace"
+    },
+    {
+        "id": 2,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBFpkCGbOM0hTkYyD1VDRHdJQAM2xOwXHEPvt-sCtGxPyCFaDIvy0OEzbz_AUYkvg2E0&usqp=CAU",
+        "filterName":"Technology"
+    },
+    {
+        "id": 3,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQv7D9uZUl0peY_OUm0qpmNsqIfe5wdf3U7YtebVTv&s",
+        "filterName":"TVSeries"
+    },
+    {
+        "id": 4,
+        "image":"https://media.istockphoto.com/id/1295900106/photo/data-scientists-male-programmer-using-laptop-analyzing-and-developing-in-various-information.jpg?s=612x612&w=0&k=20&c=2z9VEOlF7mAgeZDEsnetqFMyQS6xqjmXDoryrQ_LeOc=",
+        "filterName":"ComputerScience"
+    },
+    {
+        "id": 5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Gp_iDg849Wl_lMl4TGJ1TVvYbPGUl3ndj13TqsNZ&s",
+        "filterName":"Music"
+    },
+    {
+        "id": 6,
+        "image":"https://media.gettyimages.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=gi&k=20&c=_Yaofm8sZLZkKs1eMkv-zhk8K4k5u0g0fJuQrReWfdQ=",
+        "filterName":"Books"
+    }
+]

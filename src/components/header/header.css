@@ -1,0 +1,112 @@
+header {
+    background-color: white;
+    border-bottom: 1px solid rgb(109, 106, 106);
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+header .header-container{
+    max-width: 1120px;
+    height: 50px;
+    margin: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+header .logo {
+    width: 100px;
+    display: flex;
+}
+
+header .logo img {
+    /* width: 100%; */
+    width: 130px;
+    height: 75px;
+}
+.navbar {
+    display: flex;
+    padding-top: 25px;
+    margin-left: 25px;
+}
+.navbar a {
+    margin-right: 25px;
+}
+a {
+    color: #727272;
+    outline: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.nav {
+    display: flex;
+    
+}
+.nav a {
+    margin-right: 10px;
+}
+
+.search-bar input {
+    background-color: #e2e2e2;
+    outline: none;
+    border: 0;
+    font-size: 12px;
+    padding: 10px;
+    width: 320px;
+    border-radius: 4px;
+    align-items: center;
+}
+
+.search {
+    position: relative;
+    margin-left: 90px;
+}
+.search-bar {
+    margin: auto;
+    display: flex;
+}
+
+.search-icon {
+    position: absolute;
+    right: 8px;
+    top: 10px;
+}
+.search-icon-nav{
+    display: none;
+    margin-right: 10px;
+    color: #727272;
+}
+
+.try button {
+    display: flex;
+    border: 0.5px solid rgb(50, 47, 47);
+    border-radius: 20px;
+    margin-left: 15px;
+}
+.try button:hover {
+    background-color: #d9d2d2;
+}
+
+.btn {
+    padding: 4px 6px 4px 7px;
+}
+
+
+@media (width < 520px) {
+    .search-bar input {
+        display: none
+    }
+    .search-icon{
+        display: none;
+    }
+    .search-icon-nav {
+        display: inline-block;
+    }
+}
+

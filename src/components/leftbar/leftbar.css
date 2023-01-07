@@ -1,0 +1,30 @@
+.leftbar {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: fixed;
+  }
+
+  .homeleftbar{
+    justify-content: center;
+    align-items: center;
+    width: 17%;
+    padding: 5px;
+  }
+  
+  .homeleftbar ul h1{
+    padding: 5px 2px;
+    cursor: pointer;
+  }
+  
+  .homeleftbar ul h1:hover{
+    width: 50px;
+    background-color: rgb(223, 223, 223);
+  }
+  
+  .homeleftbar ul h1 img{
+    width: 25px;
+    height:25px;
+    margin: 0 7px 0 0;
+  }
+  
